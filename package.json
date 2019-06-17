@@ -1,0 +1,19 @@
+{
+  "name": "cursohapi",
+  "version": "1.0.0",
+  "description": "Taller de HAPI Semana de Ingenieria",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexanderRuvOroSal/CusroHAPItaller.git"
+  },
+  "author": "Alexander Ruvicel Orozco Salmeron",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlexanderRuvOroSal/CusroHAPItaller/issues"
+  },
+  "homepage": "https://github.com/AlexanderRuvOroSal/CusroHAPItaller#readme"
+}
